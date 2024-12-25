@@ -58,5 +58,4 @@ Manages the saving and loading of spreadsheet data in XML format.
 - Improve performance for large spreadsheets.
 - Add support for charts and graphs.
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/6790462/b1163518-a1b0-46d6-8fcb-4fd6d2e3b920/paste.txt
+
