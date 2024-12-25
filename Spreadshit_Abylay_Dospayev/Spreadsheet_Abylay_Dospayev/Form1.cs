@@ -9,7 +9,6 @@ namespace Spreadsheet_Abylay_Dospayev
 
     /*
      * Author: Abylay Dospayev
-     * WSU ID: 011858661
      * 
      * Main form for the spreadsheet application.
      * This form initializes the spreadsheet and manages user interactions.
